@@ -10,6 +10,6 @@ Installation
 ------------
 
 1. Install the package using pip:
-    - `pip install -e git+https://github.com/jazkarta/edx-microsite-manager#egg=edx-microsite-manager`
+    - `pip install -e git+https://github.com/dgamanenko/edx-microsite-manager#egg=edx-microsite-manager`
 2. Add edx_microsite_manager to INSTALLED_APPS in Django ettings.
 3. Access the Django admin; you should see the Microsite object.
